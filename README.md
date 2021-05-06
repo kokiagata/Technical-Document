@@ -1,2 +1,2 @@
 # Technical-Document
-A technical document page for JavaScript
+This is a technical document page illustrating JavaScript. This project enforced me to learn how to use various CSS functions, which include flex features as well as inlining divs.
